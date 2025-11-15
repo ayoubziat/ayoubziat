@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ayoub 
 
 <!--
 **ayoubziat/ayoubziat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile 😃 
+
+- Born in Morocco 🇲🇦 and living in Germany 🇩🇪
+- 🧑🏽‍💻 I’m currently working at [CGI](https://www.cgi.com/de/de)
+- 📫 How to reach me [Ayoub Ziat](https://www.linkedin.com/in/ayoub-ziat/)
+
